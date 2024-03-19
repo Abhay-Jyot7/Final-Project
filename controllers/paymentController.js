@@ -38,9 +38,9 @@ const createOrder = async(req,res)=>{
                         key_id:RAZORPAY_ID_KEY,
                         product_name:req.body.name,
                         description:req.body.description,
-                        contact:"8567345632",
-                        name: "Sandeep Sharma",
-                        email: "sandeep@gmail.com"
+                        contact:"98XXXXXXXX",
+                        name: "Bhavesh Kansal",
+                        email: "BhaveshZZZ@gmail.com"
                     });
                 }
                 else{
